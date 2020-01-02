@@ -1,0 +1,98 @@
+COURSE DESCRIPTION
+WordPress is an open source content management system software used to make pixel perfect websites, blog or apps. In this course you will learn from the very beginning, with an introduction to WordPress, installing WordPress basic theme in local server, to creating basic pages and posts.
+
+As the course progresses one is taught how to make a full business website with BE theme and introduced to page builder and revolution slider. Students are also taught how to install and customize Woo Commerce theme in order to make an e-commerce website.
+
+During the ending stage of the course Hotella theme installation and customization is also learnt in order to make a full booking website.Just before the final examinations WordPress migration is also taught.
+
+To join this course you need only basic computer.
+
+CERTIFICATION
+After course completion, students can work as a certified web designer in wordpress platform and can earn through freelancing. They will be able to customize, create and sell beautiful themes to local clients or to online marketplaces.
+
+LEARNING OUTCOMES
+On completion of the course, students will be able to:
+
+Undertake WordPress Installation
+Make basic theme and plugin customization
+Use Slider and Page Builder
+Make different types of websites including Business website, Membership website, E-commerce website, Portfolio website, Booking website, etc.
+Undertake WordPress Migration.
+ Highlight
+Students will be able to build custom websites and themes using word press
+Students will be able to create and sell beautiful themes to local and freelancing marketplaces
+Students will have the opportunity to add their themes to Theme Forest (a marketplace to buy and sell themes for popular CMS products) that is quite prestigious for any theme-developer.
+Students will receive English language training appropriate for Freelance markets places and international client communication
+After completing the course Student will receive a certificate, that will help upgrading profile both in local and freelancing marketplaces
+Student will have working experience in all major freelance market places
+Student will be instructed on the fundamentals of:
+Effective branding as a freelancer
+Creating an effective 100% complete profile on Freelance market-places
+How to communicate with the client
+How to bid and win jobs
+Course requirements/ prerequisites:
+Basic knowledge of PCs, MS Windows, internet and online proficiency
+Basic knowledge of English (reading/writing/speaking)
+ 
+
+Software Taught
+Word press
+ 
+
+Weekday	Day/Time
+3 months	Mon & Thur/Afternoon 3pm -6pm
+
+
+Curriculum:
+
+ON-BOARDING1
+ Lecture1.1On-boarding 
+INRODUCTION TO WORDPRESS1
+ Lecture2.1Inroduction to WordPress 
+WORDPRESS INSTALLATION AND DISCUSSION1
+ Lecture3.1WordPress Installation and Discussion 
+BASIC THEME AND PLUGIN CUSTOMIZATION1
+ Lecture4.1Basic Theme and Plugin Customization 
+ADVANCE THEME INSTALLATION IN LIVE SERVER1
+ Lecture5.1Advance Theme Installation in Live Server 
+BRANDING - OWN SEO(CREATE SOCIAL MEDIA ACCOUNTS WITH SAME NAME AND PICTURE)1
+ Lecture6.1Branding – OWN SEO(Create social media accounts with same name and picture) 
+SLIDER AND PAGE BUILDER1
+ Lecture7.1Slider and Page Builder 
+FULL BUSINESS WEBSITE1
+ Lecture8.1Full Business Website 
+INTRODUCTION AND PROFILE CREATION IN FIVERR MARKETPLACE1
+ Lecture9.1Introduction and profile creation in Fiverr marketplace 
+EXAM BASED ON PREVIOUS TOPICS1
+ Lecture10.1Exam Based on previous topics 
+LANDING PAGE + SQUEEZE + SALES PAGE1
+ Lecture11.1Landing Page + squeeze + sales page 
+FIVERR - GIG CREATION1
+ Lecture12.1FIVERR – GIG Creation 
+MEMBERSHIP WEBSITE1
+ Lecture13.1Membership Website 
+E-COMMERCE WEBSITE1
+ Lecture14.1E-commerce Website 
+E-COMMERCE WEBSITE1
+ Lecture15.1Products Upload & Stock Mangement 
+(UPWORK) MARKETPLACE & PROFILE CREATION1
+ Lecture16.1(UPWORK) MARKETPLACE & PROFILE CREATION 
+PORTFOLIO WEBSITE1
+ Lecture17.1Portfolio Website 
+EDUCATIONAL WEBSITE1
+ Lecture18.1Educational Website 
+BOOKING WEBSITE1
+ Lecture19.1Booking Website 
+NON PROFIT WEBSITE1
+ Lecture20.1Non profit website 
+WP MIGRATION & Q/A SESSION1
+ Lecture21.1Wp Migration & Q/A session 
+FINAL EXAM1
+ Lecture22.1Exam on wordpress 
+(UPWORK) HOURLY & FIXED JOB1
+ Lecture23.1(UPWORK) Hourly & Fixed Job 
+PEOPLE PER HOUR1
+ Lecture24.1People Per Hour 
+
+
+ 

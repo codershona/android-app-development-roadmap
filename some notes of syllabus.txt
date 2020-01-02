@@ -1,0 +1,81 @@
+LEARNING OUTCOMES
+The students will learn how to develop applications for Android mobile devices
+The students will be eligible for millions of jobs around the world in online marketplaces.
+The students will be able to develop mobile applications with underlying database supports
+Apply mobile application models/architectures and patterns to the development of a mobile software application.
+The students will be able to develop mobile applications that can smartly communicate with a server applications.
+The students will be able to develop multimedia and location based applications for Android devices.
+Demonstrate advanced Java programming competency by developing a maintainable and efficient cloud based mobile application.
+Describe the components and structure of a mobile development framework (Google’s Android Studio).
+Student will be instructed on the fundamentals of:
+Effective branding as a freelancer
+Creating an effective 100% complete profile on Freelance marketplaces
+How to communicate with the client
+How to bid and win jobs
+How to manage projects and receive high ratings
+
+
+Course requirements/ prerequisites:
+Basic knowledge about Object Oriented Programming
+Prior Knowledge of Java
+ 
+
+Software Taught
+Android Studio
+
+Weekday	Day/Time
+3 months	Mon & Thurs / 6PM – 9PM
+
+
+
+
+Curriculum :
+
+ORIENTATION AND GETTING INFORMED ABOUT CODERSTRUT RULES AND REGULATIONS1
+ Lecture1.1Orientation and getting informed about CodersTrut Rules and Regulations 
+BASIC SYNTAX OF JAVA1
+ Lecture2.1Basic Syntax of JAVA 
+CONCEPT OF OOP1
+ Lecture3.1Concept of OOP 
+ADVANCE JAVA INTRIGATION1
+ Lecture4.1” Advance JAVA intrigation” 
+ANDROID DEVELOPMENT ENVIRONMENT SETUP AND VIEWS1
+ Lecture5.1Android Development Environment Setup and Views 
+ACTIVITY, INTENTMANAGER, EVENTHANDLER1
+ Lecture6.1Activity, IntentManager, Eventhandler 
+LISTVIEW CREATION AND ONITEMCLICKLISTENER1
+ Lecture7.1Listview creation and onItemClickListener 
+LAYOUT AND IT'S USES1
+ Lecture8.1Layout and it’s uses 
+CONTEXT AND MANAGER1
+ Lecture9.1Context and Manager 
+SAMPLE ASSIGNMENT1
+ Lecture10.1Birthday card application, Phonebook application 
+COURT COUNTER, COFFEE ORDERING APP1
+ Lecture11.1Court Counter, Coffee Ordering App 
+APPLICATION NOT RESPONDING(ANR) ERROR HANDLING,THREAD, ASYNCHRONOUS TASK1
+ Lecture12.1Application Not Responding(ANR) error handling,Thread, Asynchronous Task 
+BUTTERKNIFE LIBRARY INTEGRATION USES1
+ Lecture13.1Butterknife Library integration uses 
+API & MATERIAL DESIGN1
+ Lecture14.1API & Material Design 
+RETROFIT LIBRARY INTEGRATION USES1
+ Lecture15.1Retrofit Library integration uses 
+SHARED PREFFERENCE & SQLITE1
+ Lecture16.1Shared prefference & SQLIte 
+BROADCAST RECIEVER1
+ Lecture17.1Broadcast Reciever 
+FRAGMENT MANAGER, INTRODUCTION WITH FIREBASE1
+ Lecture18.1Fragment Manager, Introduction with Firebase 
+ADVANCE FEATURES IN ANDROID1
+ Lecture19.1Advance features in Android 
+GOOGLE API INTIGRATION1
+ Lecture20.1Google API Intigration 
+GOOGLE CLOUD MANAGEMENT,SENSOR SIMULATOR INTIGRATION1
+ Lecture21.1Google Cloud Management,Sensor Simulator Intigration 
+API INTIGRATION AND SQLITE DATABASE USES1
+ Lecture22.1API Intigration and SQLite database uses 
+FINAL PROJECT SUBMISSION1
+ Lecture23.1Final Project Submission 
+GOOGLE PLAYSTORE INTRODUCTION1
+ Lecture24.1Google Playstore Introduction 

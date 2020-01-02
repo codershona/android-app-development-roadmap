@@ -1,0 +1,123 @@
+COURSE DESCRIPTION
+In this course you will learn how to apply concepts from interaction design and human-computer interaction in order to design and build an interactive, professional looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates. You’ll also learn about jQuery plugins and basic Word Press Theme Customization.
+
+CERTIFICATION
+After completing the course students will become a certified web designer and can earn through freelancing. They will become proficient in HTML 5, CSS 3, JQuery, JavaScript, Bootstrap and WordPress.
+
+LEARNING OUTCOMES
+On completion of the course, students will be able to:
+
+Create HTML layout
+Create a sign in and sign up a page with a navigation bar
+Make Multipage website
+Make PSD to Responsive Design
+Understand and be able to apply media queries and breakpoints.
+Add responsive jQuery plugins such as sliding carousels and social share buttons.
+Create Landing Page
+Create E-commerce website
+Full Theme customization
+Build a responsive website from scratch or by using a Bootstrap.
+Create HTML layout
+Make Multipage website
+Make PSD to Responsive Design
+Understand and be able to apply media queries and breakpoints.
+Add responsive jQuery plugins such as sliding carousels and social share buttons.
+Create Landing Page
+Create E-commerce website with premium Wp theme
+Full Theme customization
+Build a responsive website from scratch or by using a Bootstrap
+ Highlight
+Student will be proficient in the following technologies:
+HTML 5, CSS 3, JQuery, JavaScript, Bootstrap, WordPress
+Students will receive language training appropriate for Freelance markets places and international client communication
+Student will be able to develop full websites, including:
+responsive (mobile friendly)
+landing pages
+Students will be able to create HTML email templates
+Student will have working experience in all major freelance market places
+Student will be instructed on the fundamentals of:
+Effective branding as a freelancer
+Creating an effective 100% complete profile on Freelance market places
+How to communicate with the client
+How to bid and win jobs
+How to manage projects and receive high ratings
+Course requirements/ prerequisites:
+Basic knowledge of PCs, MS Windows, internet and online proficiency
+Basic knowledge of English (reading/writing/speaking)
+Familiarity with coding (for HTML/ CSS etc.)
+ 
+
+Software Taught
+Code Editor
+WordPress
+Photoshop
+ 
+
+4/6 monthsMon & Thur/ 6pm – 9pm
+
+Weekday	Day/Time
+
+
+Curriculum :
+
+ORIENTATION AND GETTING INFORMED ABOUT CODERSTRUT RULES AND REGULATION1
+ Lecture1.1Orientation and getting informed about CodersTrut Rules and Regulation 
+INTRODUCTION TO HTML & CSS1
+ Lecture2.1Introduction to HTML & CSS 
+RESPONSIVE PAGE USING MEDIA QUERY1
+ Lecture3.1Responsive Page using media query 
+CSS3 EFFECTS & IMPLEMENTATION1
+ Lecture4.1CSS3 Effects & Implementation 
+MULTIPAGE WEBSITE1
+ Lecture5.1Multipage Website 
+PROJECT SUBMISSION1
+ Lecture6.1Project Submission 
+BRANDING - OWN SEO(CREATE SOCIAL MEDIA ACCOUNTS WITH SAME NAME AND PICTURE)1
+ Lecture7.1Branding – OWN SEO(Create social media accounts with same name and picture) 
+INTRODUCTION WITH BOOTSTRAP & RESPONSIVE WEB DESIGN1
+ Lecture8.1Introduction with Bootstrap & Responsive Web Design 
+ONEPAGE RESPONSIVE DESIGN WITH NAVBAR & CAROUSEL1
+ Lecture9.1Onepage Responsive Design With Navbar & Carousel 
+RESPONSIVE SINGLE PAGE WEBSITE CREATION1
+ Lecture10.1Responsive Single Page website Creation 
+PSD TO RESPONSIVE DESIGN1
+ Lecture11.1PSD to Responsive Design 
+COMPLETE JAVASCRIPT LOGICAL PARTS1
+ Lecture12.1Complete Javascript Logical Parts 
+PROBLEM SOLVING AND FOLLOWUP FOR FINAL PROJECT1
+ Lecture13.1Problem solving and followup for final Project 
+INTRODUCING WITH FIVER1
+ Lecture14.1Introducing With Fiver 
+CREATING GIG IN FIVER1
+ Lecture15.1Creating GIG in Fiver 
+INTRODUCTION WITH JAVASCRIPT (SYNTAX, VARIABLE, EXPRESSION & CONDITION)1
+ Lecture16.1Introduction with Javascript (Syntax, Variable, Expression & Condition) 
+IMPLEMENTING JAVASCRIPT ON WEBSITE1
+ Lecture17.1Implementing Javascript on Website 
+JQUERY EFFECTS & USES2
+ Lecture18.1Jquery CSS 
+ Lecture18.2Jquery Effects & Uses 
+JQUERY PLUGINS INTIGRATION IN WEBSITE1
+ Lecture19.1Jquery Plugins Intigration in Website 
+(UPWORK) MARKETPLACE & PROFILE CREATION1
+ Lecture20.1(UPWORK) MARKETPLACE & PROFILE CREATION 
+INTRODUCTION WITH WORDPRESS & INSTALLATION1
+ Lecture21.1Introduction with WordPress & Installation 
+CREATING LANDING PAGE USING PAID THEME1
+ Lecture22.1Creating Landing Page using Paid Theme 
+FULL THEME CUSTOMIZATION1
+ Lecture23.1Full Theme Customization 
+FORM CREATION & INTEGRATION USING MAIL CHIMP1
+ Lecture24.1Form Creation & Integration Using Mail Chimp 
+POST SHARING METHOD1
+ Lecture25.1Post Sharing Method 
+HOW TO CREATE A ECOMMERCE WEBSITE1
+ Lecture26.1How To Create A eCommerce Website 
+ECOMMERCE WEBSITE WITH OXYGEN PREMIUM THEME1
+ Lecture27.1eCommerce Website With Oxygen Premium Theme 
+(UPWORK) HOURLY & FIXED JOB1
+ Lecture28.1(UPWORK) Hourly & Fixed Job 
+PEOPLEPERHOUR MARKET PLACE1
+ Lecture29.1PEOPLEPERHOUR Market Place
+
+ 

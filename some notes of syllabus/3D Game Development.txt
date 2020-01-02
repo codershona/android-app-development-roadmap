@@ -1,0 +1,63 @@
+Course Overview/Objective
+To introduce the game industry before entering
+To develop 2D & 3D game development using game engine
+To manage version of a game using version control system
+To create game asset using 2D & 3D asset creation tools
+To discuss and define the terms & principles of game design
+To enable trainee find bugs and fix them
+To provide knowledge of monetization strategies & integrate common monetization strategies in game
+To enable trainee to make their own game
+To guide trainee about different career path through game development
+To provide soft skill training to adapt with teamwork & improve communication skill
+Software Taught
+Maya
+Substance Painter
+Keyshot
+Marmoset Toolbag3
+Davinci
+ 
+
+Weekday	Day/Time
+3 months	Tue & Sat / 6pm – 9pm
+
+
+Curriculum :
+
+MAYA – BASIC MODELING1
+ Lecture1.1Game Studio, basic interface of Maya, Setting up project workflow, control the manipulators and camera, basic Hard Surface 3D Modeling and the primitive shapes, the fundamental modeling tools such as Insert Edge, Extrude, Append, Boolean, Bevel etc. 
+MODELING A SIMPLE LOW POLY PLANE1
+ Lecture2.1low poly space craft using all the techniques, transferring a 3D model to unity, 
+UNITY1
+ Lecture3.1Unity 
+MAYA – ADVANCED MODELING1
+ Lecture4.1Theory of Cinematography,Introduction to Digital Videography, Types of Camera Copy 
+CAMERA TECHNIQUES1
+ Lecture5.1Knob Motion Paths, repetitive structures such as chains using Animation screenshot , NURBS curves,Mirror modified, combine and separate tools , Fill Hole, Smooth, Subdivide to Smooth and knife tool 
+ADVANCED MODELING 21
+ Lecture6.1assets and a low poly car for the racing game and any other game needed by Unity 
+UNITY1
+ Lecture7.1Tentative 
+UNITY1
+ Lecture8.1Tentative 
+INTRODUCTION TO MATERIALS, RENDERING AND HYPERSHADE1
+ Lecture9.1interface of Hypershade, adding Materials, core concepts of rendering and talk about PBR workflow, principles of lighting a scene, 
+INTRODUCTION TO KEYSHOT1
+ Lecture10.1Introduce Keyshot and explain what type of renderer, model a very simple bottle and liquid, HDR Lighting and how it affects the whole scene, transfer the bottle to Keyshot, apply materials, set lighting and render an final image 
+UNITY1
+ Lecture11.1Tentative 
+UNITY1
+ Lecture12.1Tentative 
+INTRODUCTION TO UNWRAPPING1
+ Lecture13.1concept of UVs, the UV Toolkit in Maya, interface of UV Unwrapping Window , ommon unwrapping tools such as Automatic, Normal Base, Cylindrical, Planar, Spherical, Best Plane, Camera Based And Contour Stretch 
+INTRODUCTION TO TEXTURING AND SUBSTANCE PAINTER1
+ Lecture14.1texturing , different types of texture maps and how they are affect a 3D Model (Normal, Ambient Occlusion, Curvature), texturing using Maya, Unwrapped UV Maps and Photoshop , interface of Substance Painter 
+UNITY1
+ Lecture15.1Tentative 
+INTRODUCTION TO TEXTURING AND SUBSTANCE PAINTER1
+ Lecture16.1Introduction to Texturing and Substance Painter 
+SUBSTANCE PAINTER ADVANCED1
+ Lecture17.1the concept of texture Set baking and show Smart Materials, use filters, generators, metal edge generator, stencil, alphas, adding manually details such as Scratches, dirt, fingerprints etc. 
+MARMOSET TOOLBAG 31
+ Lecture18.1Marmoset Toolbag and Teach how to render a portfolio image
+
+ 

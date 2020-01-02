@@ -1,0 +1,104 @@
+COURSE DESCRIPTION
+Advanced Web Development course is a complete training which provides the learners all the important necessary techniques and tools of web development with a wide range of practices in the coding of web application functionalities. With the advancement of internet technology, there is an increased demand of search engine friendly web page. The employers from first-grade organizations are seeking for the skilled web developers who are capable to make the website user-friendly along with search-engine friendly to grab a huge web visitor.
+
+Using CSS & CSS3 (cascading style sheets) in layout controlling of web pages ensure the page development user-friendly for screen readers. JavaScript which is known as Client-side scripting languages enable the interactive effects creation among the web browsers.
+
+Advanced Web Development course is complete, general, and designed in such a way that anybody from beginners to advanced learners can join the course. It is the best suit for mobile app developers, system engineers, software engineers, web application developers, and any person with a technical background.
+
+CERTIFICATION
+After completing the course students will become a certified Advanced web designer and can earn through freelancing. They will become proficient in HTML 5, CSS 3, JQuery, JavaScript, Bootstrap and WordPress, PHP, Laravel, OOP, Project Deplopment etc…
+
+LEARNING OUTCOMES
+On completion of the course, students will be able to:
+
+PHP Dependency Manager (Composer)
+Understanding about Git
+Environment Setup
+Laravel – (Request Lifecycle)
+Laravel – (Routes)
+Laravel – (Controllers)
+Laravel – (Views)
+Laravel – (Blade Templating Engine)
+Laravel – (request, Response)
+Laravel – (Middleware / Security)
+MySQL database
+Simple project with PHP
+PHP PDO (PHP Data Object)
+Understanding about MVC
+Project Deployment
+And many more….
+ Highlight
+Student will be proficient in the following technologies:
+HTML 5, CSS 3, JQuery, JavaScript, Bootstrap, WordPress
+Students will receive language training appropriate for Freelance markets places and international client communication
+Student will be able to develop full websites, including:
+responsive (mobile friendly)
+landing pages
+Students will be able to create HTML email templates
+Student will have working experience in all major freelance market places
+Student will be instructed on the fundamentals of:
+Effective branding as a freelancer
+Creating an effective 100% complete profile on Freelance market places
+How to communicate with the client
+How to bid and win jobs
+How to manage projects and receive high ratings
+Course requirements/ prerequisites:
+Php basic skill
+Basic knowledge of English (reading/writing/speaking)
+Familiarity with coding (for HTML/ CSS etc.)
+ 
+
+Weekday	Day/Time
+4/6 months	Satarday / 9:00AM – 1:00PM
+
+
+
+
+Curriculum:
+
+
+ORIENTATION AND GETTING INFORMED ABOUT CODERSTRUT RULES AND REGULATION1
+ Lecture1.1Orientation and getting informed about CodersTrut Rules and Regulation 
+INTRODUCTION TO PHP FUNDAMENTALS1
+ Lecture2.1Introduction to PHP fundamentals 
+LOOPING STATEMENT, FUNTION & ARRAY1
+ Lecture3.1Looping statement, Funtion & Array Copy 
+PHP OOP BASIC1
+ Lecture4.1PHP OOP Basic 
+DATABASE MANAGEMENT1
+ Lecture5.1Database Management 
+LARAVEL OVERVIEW1
+ Lecture6.1Laravel overview 
+ROUTES, REQUEST1
+ Lecture7.1Routes, Request Copy 
+CONTROLLER1
+ Lecture8.1Controller 
+AUTHENTICATION SYSTEM1
+ Lecture9.1Authentication System 
+MIDDLEWARE1
+ Lecture10.1Middleware 
+VIEW AND BLADE1
+ Lecture11.1View and Blade 
+MODEL1
+ Lecture12.1Model 
+PROJECT1
+ Lecture13.1Project 
+PROJECT DEPLOYMENT1
+ Lecture14.1Project Deployment 
+EXAM1
+ Lecture15.1Exam 
+UPWORK1
+ Lecture16.1(UPWORK) MARKETPLACE & PROFILE 
+FIVERR1
+ Lecture17.1FIVERR 
+FIVERR1
+ Lecture18.1FIVERR GIG REVIEW & BUYER REQUEST 
+FIVERR1
+ Lecture19.1FIVERR GIG REVIEW & BUYER REQUEST 
+PEOPLEPERHOUR1
+ Lecture20.1A+ Profile and portfolio and HOURLIES 
+COVER LETTERS & PROJECT MANAGEMENT & INTERVIEWS1
+ Lecture21.1COVER LETTERS & PROJECT MANAGEMENT & INTERVIEWS
+
+
+ 
